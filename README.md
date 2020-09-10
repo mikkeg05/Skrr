@@ -1,2 +1,3 @@
 # Skrr
-Repository til opgave d. 10/09/2020
+Mikkel Gottschalck
+cph-mg320@cphbusiness.dk
